@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there, I am creative technologist from New Delhi, India.<br>I absolutely love coding and love to solve real life problems <br>with the help of algorithms and code.<br>Apart from Computer Science, I am interested in sports, <br>country music, philosophy, life-sap.<br>
-I am a Full Stack Developer and like to build-deliver products at scale from scratch.
+I am a Full Stack Developer with a knack to build-deliver products<br> at scale from scratch.
 
 
 ## 🌐 Socials:
